@@ -1,0 +1,20 @@
+{
+    "whoami": [
+        {
+            "is": "jekyll",
+            "when": {
+                "guy.is": "good",
+                "guy.looks": "respectable",
+                "guy.known.for": "philanthropy"
+            }
+        },
+        {
+            "is": "hyde",
+            "when": {
+                "guy.is": "evil",
+                "guy.looks": "pre-human",
+                "guy.known.for": "violence"
+            }
+        }
+    ]
+}
