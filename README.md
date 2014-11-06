@@ -1,3 +1,3 @@
 # blog-sample
 
-Specialization sample for blog article
+Specialization sample for Paypal blog article.
